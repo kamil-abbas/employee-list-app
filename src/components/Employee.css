@@ -1,0 +1,7 @@
+.employee{
+    width: 200px;
+    background-color: lightgreen;
+    padding: 10px;
+    margin: 0 10px;
+    border-radius: 20px;
+}

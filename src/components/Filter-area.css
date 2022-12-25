@@ -1,0 +1,11 @@
+.filter-area{
+    margin-bottom: 10px;
+}
+
+.filter-area label{
+    margin-left: 10px;
+}
+
+.filter-area select{
+    margin: 10px;
+}
